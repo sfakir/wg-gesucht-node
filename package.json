@@ -1,0 +1,8 @@
+{
+  "name": "wg-gesucht-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sfakir/wg-gesucht-node.git",
+  "author": "Simon Fakir <simon@fakir-it.de>",
+  "license": "MIT"
+}
